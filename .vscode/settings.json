@@ -16,7 +16,7 @@
       "cljsType": "none",
       "projectType": "deps.edn",
       "menuSelections": {
-        "cljAliases": ["test"]
+        "cljAliases": ["repl"]
       }
     }
   ],
@@ -48,7 +48,7 @@
   //// We recommend using regular editor files instead.
   //// See also: https://calva.io/fiddle-files/
   //// (There's a command for opening the REPL window.)
-  "calva.autoOpenREPLWindow": false
+  "calva.autoOpenREPLWindow": false,
 
   //// https://calva.io/pprint/
   // "calva.prettyPrintingOptions": {
